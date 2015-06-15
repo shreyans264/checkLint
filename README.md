@@ -1,5 +1,0 @@
-# checkLint
-
-a
-
-a
