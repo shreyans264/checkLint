@@ -6,9 +6,9 @@ function myFunction() {
 
     // If x is Not a Number or less than one or greater than 10
     if (isNaN(x) || x < 1 || x > 10) {
-        text = "Input not valid"
+        text = "Input not valid";
     } else {
-        text = "Input OK";
+        text = "Input OK"
     }
     document.getElementById("demo").innerHTML = text;
 }
