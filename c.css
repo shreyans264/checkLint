@@ -16,7 +16,7 @@ body select, body input {
     display: inline-block;
     width:20%;
     margin-right: 15px;
-    text-align: right;
+    text-align: right ;
 }
 
 .toslide{
