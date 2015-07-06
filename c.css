@@ -56,7 +56,7 @@ body select, body input {
 }
 .no-data-message{
     padding-top:15%;
-    font-weight:300;
+    font-weight:300 !important;
     text-align: center;
     padding-bottom:10%;
 }
