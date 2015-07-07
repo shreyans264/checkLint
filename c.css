@@ -1388,7 +1388,7 @@ div.refund-creditnote-nav ul li:last-child{
 }
 
 .area.newceb .dropdown-toggle.pseudolink{
-    border: none;
+    border: none ;
     font-size: 13px;
     width: 90px;
     text-align: left;
